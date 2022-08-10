@@ -4,17 +4,14 @@
   "description": "try to install ubuntu",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('hello world')"
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TonyAbdullaev/hexlet-js.git"
   },
-  "keywords": [
-    "tonyabdullaev"
-  ],
   "author": "tonyabdullaev",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/TonyAbdullaev/hexlet-js/issues"
   },
