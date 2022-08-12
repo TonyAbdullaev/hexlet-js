@@ -1,8 +1,9 @@
 {
   "name": "tonyabdullaev",
   "version": "1.1.0",
+  "type": "module",
   "description": "try to install ubuntu",
-  "main": "index.js",
+  "main": "index",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TonyAbdullaev/hexlet-js/issues"
   },
-  "homepage": "https://github.com/TonyAbdullaev/hexlet-js#readme"
+  "homepage": "https://github.com/TonyAbdullaev/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
